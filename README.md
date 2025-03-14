@@ -1,4 +1,4 @@
-# School Data Chatbot
+# AI-DRIVEN-ACADEMIC-DATA-ASSISTANT
 
 This is a Streamlit-based chatbot that allows users to query a school database and retrieve information about students, their marks, and admission details. It leverages SQL, Sentence Transformers, FAISS for retrieval-augmented generation (RAG), and Google's Gemini API for natural language understanding and generation.
 ![image](https://github.com/user-attachments/assets/cd3bd804-e3e7-48c7-a7a8-1a04036e62a2)
